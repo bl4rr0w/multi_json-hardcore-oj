@@ -7,7 +7,7 @@ class MultiJson
   class << self
 
     LOAD_OPTIONS = { :mode => :strict }
-    DUMP_OPTIONS = { :mode => :strict, :time_format => :ruby }
+    DUMP_OPTIONS = { :mode => :compat, :time_format => :ruby }
 
     def load(json, options = {})
       if options[:symbolize_keys]

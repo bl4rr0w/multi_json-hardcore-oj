@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 Gem::Specification.new do |gem|
   gem.name          = 'multi_json'
-  gem.version       = '1.5.1'
+  gem.version       = '1.5.2'
   gem.authors       = ['Jonathan Dance']
   gem.email         = ['rubygems@wuputah.com']
   gem.description   = %q{MultiJson Hardcore OJ is a replacement for MultiJson that just uses OJ}

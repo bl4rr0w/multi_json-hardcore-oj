@@ -7,7 +7,7 @@ just uses the JSON library of choice, in this case, `oj`.
 ## Use
 
 ```ruby
-gem "multi_json", github: "wuputah/multi_json-hardcore-oj", ref: "v1.5.1"
+gem "multi_json", github: "wuputah/multi_json-hardcore-oj", ref: "v1.5.2"
 ```
 
 ## Releases

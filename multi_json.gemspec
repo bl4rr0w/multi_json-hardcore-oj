@@ -5,6 +5,7 @@ Gem::Specification.new do |gem|
   gem.authors       = ['Jonathan Dance']
   gem.email         = ['rubygems@wuputah.com']
   gem.description   = %q{MultiJson Hardcore OJ is a replacement for MultiJson that just uses OJ}
+  gem.summary       = %q{MultiJson Hardcore OJ is a replacement for MultiJson that just uses OJ. Therefore, it's faster.}
   gem.homepage      = 'https://github.com/wuputah/multi_json-hardcore-oj'
   gem.license       = 'MIT'
 

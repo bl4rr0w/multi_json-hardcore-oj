@@ -2,7 +2,8 @@ require 'oj'
 
 class MultiJson
 
-  LoadError = Class.new(StandardError)
+  DecodeError = Class.new(::StandardError)
+  LoadError = Class.new(DecodeError)
 
   class << self
 

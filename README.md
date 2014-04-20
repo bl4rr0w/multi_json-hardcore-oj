@@ -6,8 +6,11 @@ just uses the JSON library of choice, in this case, `oj`.
 
 ## Use
 
+The code is the same, pick whatever version number works for you.
+
 ```ruby
 gem "multi_json", github: "wuputah/multi_json-hardcore-oj", ref: "v1.5.3"
+gem "multi_json", github: "wuputah/multi_json-hardcore-oj", ref: "v1.8.0"
 ```
 
 ## Releases
